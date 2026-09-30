@@ -1,0 +1,6 @@
+{
+  "name": "EduTest Pro - Nền tảng Luyện thi Chứng chỉ Thông minh",
+  "description": "Nền tảng luyện thi chứng chỉ trực tuyến IELTS, HSK, THPTQG với kho đề thi phong phú, giao diện làm bài chuyên nghiệp chuẩn quốc tế và phân tích kết quả chuyên sâu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
